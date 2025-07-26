@@ -1,16 +1,4 @@
-//Galería de Imágenes | Modal
-
-const modalImg = document.getElementById("modal-img");
-  const modalTriggerImgs = document.querySelectorAll("[data-bs-img]");
-
-  modalTriggerImgs.forEach(img => {
-    img.addEventListener("click", function () {
-      const imgSrc = this.getAttribute("data-bs-img");
-      modalImg.setAttribute("src", imgSrc);
-    });
-  });
-
-  //Lista de Tarea Predeterminada:
+//Lista de Tarea Predeterminada:
 const tareasIniciales = [
     "¡Hola! Soy una tarea de ejemplo.",
 ];
