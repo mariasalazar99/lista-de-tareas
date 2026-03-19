@@ -15,7 +15,7 @@ Porque aquí nos gusta el rosado, aquí te enseño sus...
 5. Genera un ID único aleatorio para cada tarea.
 6. Muestra advertencias si intentas agregar una tarea vacía.
 7. Estilo rosado y kawaii con animaciones suaves.
-**Incluye una tarea de ejemplo.**
+**No incluye una tarea de ejemplo. Esta app está lista para usar de inmediato.**
 
 ## Vista previa
 
