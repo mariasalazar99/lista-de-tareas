@@ -8,14 +8,14 @@ Porque aquí nos gusta el rosado, aquí te enseño sus...
 
 ## Características Principales
 
-🌸Agrega tareas personalizadas.
-🌸Elimina tareas cuando ya no las necesites.
-🌸Marca tareas como completadas con solo un clic.
-🌸Muestra la fecha y hora en que se agregó cada tarea.
-🌸Genera un ID único aleatorio para cada tarea.
-🌸Muestra advertencias si intentas agregar una tarea vacía.
-🌸Estilo rosado y kawaii con animaciones suaves.
-🌸Tarea de ejemplo.
+1. Agrega tareas personalizadas.
+2. Elimina tareas cuando ya no las necesites.
+3. Marca tareas como completadas con solo un clic.
+4. Muestra la fecha y hora en que se agregó cada tarea.
+5. Genera un ID único aleatorio para cada tarea.
+6. Muestra advertencias si intentas agregar una tarea vacía.
+7. Estilo rosado y kawaii con animaciones suaves.
+**Incluye una tarea de ejemplo.**
 
 ## Vista previa
 
